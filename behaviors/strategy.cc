@@ -65,11 +65,11 @@ SkillType NaoBehavior::selectSkill() {
     //return kickBall(KICK_IK, VecPosition(HALF_FIELD_X, 0, 0)); // IK kick
 
     // Just stand in place
-    //return SKILL_STAND;
+    return SKILL_STAND;
 
     // Demo behavior where players form a rotating circle and kick the ball
     // back and forth
-    return demoKickingCircle();
+    // return demoKickingCircle();
 }
 
 

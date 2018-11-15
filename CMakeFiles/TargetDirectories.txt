@@ -1,0 +1,3 @@
+/home/yun/桌面/ut_still/CMakeFiles/rebuild_cache.dir
+/home/yun/桌面/ut_still/CMakeFiles/edit_cache.dir
+/home/yun/桌面/ut_still/CMakeFiles/agentspark.dir
